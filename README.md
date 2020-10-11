@@ -1,5 +1,5 @@
 # AlgoTrdingMT4
-This is a wroking demo expert advisor not intended to be used for real money forex trading.
+This is a working demo expert advisor not intended to be used for real money forex trading.
 
 CustomFunctions1.mqh file has important utility functions that can be used to avoid infinite loops and catch errors.
 
